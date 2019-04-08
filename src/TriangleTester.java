@@ -9,7 +9,7 @@ class TestTriangleTester {
 
 
         System.out.println(TriangleTester.isTriangle(3,4,5));
-
+        System.out.println(TriangleTester.isTriangle(-1,-2,-3));
     }
 }
 
