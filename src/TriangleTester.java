@@ -6,8 +6,9 @@ public class TriangleTester {
 
 class TestTriangleTester {
     public static void main(String[] args) {
-        TriangleTester trian= new TriangleTester();
 
+
+        System.out.println(TriangleTester.isTriangle(3,4,5));
 
     }
 }
