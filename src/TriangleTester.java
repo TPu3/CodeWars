@@ -4,3 +4,11 @@ public class TriangleTester {
     }
 }
 
+class TestTriangleTester {
+    public static void main(String[] args) {
+        TriangleTester trian= new TriangleTester();
+
+
+    }
+}
+
